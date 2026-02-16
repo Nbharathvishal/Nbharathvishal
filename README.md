@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,AWS Cloud.**
 
-- 👨‍💻 All of my projects are available at [Nbharathvishal](Nbharathvishal)
+- 👨‍💻 All of my projects are available at [MyGitHub](https://github.com/Nbharathvishal)
 
 - 📫 How to reach me **vishalbharath566@gmail.com**
 
